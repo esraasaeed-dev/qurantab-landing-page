@@ -68,7 +68,7 @@ a {
   max-width: var(--desktop-width);
   margin: 0 auto;
   padding: 0 var(--default-padding);
-
+  overflow-x: hidden;
   @media (max-width: 600px) {
     gap: calc(var(--default-padding) * 2);
   }
@@ -107,7 +107,7 @@ a {
     position: absolute;
     inset: 0;
     background-color: var(--color-off-white);
-    border-bottom:0.1rem solid var(--color-very-dark-blue);
+    border-bottom: 0.1rem solid var(--color-very-dark-blue);
     // border-style:
     z-index: -1;
     width: 100vw;
