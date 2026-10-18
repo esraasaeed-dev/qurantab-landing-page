@@ -22,7 +22,7 @@ A responsive landing page for **Quran Tab**, a browser extension that displays a
 
 ## 🌐 Live Demo
 
-[https://esraasaeed-dev.github.io/qurantab-landing-page/]
+[View Live Demo](https://esraasaeed-dev.github.io/qurantab-landing-page/)
 
 ## Learning Context
 
