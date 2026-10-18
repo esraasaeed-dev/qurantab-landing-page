@@ -1,4 +1,4 @@
-#Quran Tab Landing Page
+# Quran Tab Landing Page
 
 A responsive landing page for **Quran Tab**, a browser extension that displays a random Quranic verse whenever a new tab is opened.
 
