@@ -68,7 +68,6 @@ a {
   max-width: var(--desktop-width);
   margin: 0 auto;
   padding: 0 var(--default-padding);
-  overflow-x: hidden;
   @media (max-width: 600px) {
     gap: calc(var(--default-padding) * 2);
   }
